@@ -3,7 +3,7 @@ This plugin allows you to create a shp from scratch to digitize the pre ex featu
 
 # Generate PreEx shp
 
-- generates a memory file where the columns are already created and displays it on the canvas
+Generates a memory file where the columns are already created and displays it on the canvas
 
 <ul>
 	<li>Interpr</li>
@@ -18,21 +18,21 @@ This plugin allows you to create a shp from scratch to digitize the pre ex featu
 
 # Classified Features
 
-- classifies the shp according to interpretation
+Classifies the shp according to interpretation
 	Linear, Pit, Posthole, Cremation, Grave, Structure, Spread, Unclear
 
 	It is a basic classification. Other interpretations can be inserted into the code as 		needed
 
 # Add Area and Dimensions(Length and Diameter)
 
-- This two buttons calculate the area, length and diameter of the features
+This two buttons calculate the area, length and diameter of the features
 
 
 # Excavation
 
-- This button calculates how many m2 will have to dig for each element based on the respective percentage (e.g. Linear 10%, Pit 50%, etc.)
+This button calculates how many m2 will have to dig for each element based on the respective percentage (e.g. Linear 10%, Pit 50%, etc.)
 
 # Extra
 
-- The Centroids button generates the x,y for each polygon features
-- The id button generated an ID follow the row numbers
+The Centroids button generates the x,y for each polygon features
+The id button generated an ID follow the row numbers
