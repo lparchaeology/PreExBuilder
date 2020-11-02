@@ -1,6 +1,7 @@
 # PreExBuilder
 This plugin allows you to create a shp from scratch to digitize the pre ex features, classify them according to type and extrapolate their respective dimensions. It also allows you to calculate the m2 to be excavated for each single feature.
 
+
 # Generate PreEx shp
 
 Generates a memory file where the columns are already created and displays it on the canvas
@@ -16,12 +17,12 @@ Generates a memory file where the columns are already created and displays it on
 	<li>m2ToDig</li>
 </ul>
 
+
 # Classified Features
 
 Classifies the shp according to interpretation
 	Linear, Pit, Posthole, Cremation, Grave, Structure, Spread, Unclear
 
-	It is a basic classification. Other interpretations can be inserted into the code as 		needed
 
 # Add Area and Dimensions(Length and Diameter)
 
