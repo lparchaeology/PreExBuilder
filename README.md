@@ -1,5 +1,5 @@
 # PreExBuilder
-This plugin allows you to create a shp from scratch to digitize the pre ex features, classify them according to type and extrapolate their respective dimensions. It also allows you to calculate the m2 to be excavated for each single feature.
+This plugin allows you to manage dxf files that are exported from GPS, convert them to shapefile and polygon and also it allows you to create a shp from scratch to digitize the pre ex features, classify them according to type and extrapolate their respective dimensions.
 
 
 # Generate PreEx shp
@@ -17,6 +17,17 @@ Generates a memory file where the columns are already created and displays it on
 	<li>m2ToDig</li>
 </ul>
 
+# Convert DXF
+
+Convert the dxf file to a memory shapefile
+
+# add Interpr
+
+adds the Interpr column that will match with the classify button to classify the features
+
+# Polygonize
+
+Convert the memory line shapefile to a memory polygon shapefile
 
 # Classified Features
 
