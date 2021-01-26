@@ -26,7 +26,7 @@ Classifies the shp according to the status
 # Classified Slot(time)
 
 Classifies the shp according to the time
-	1 is 0 to 0.5 day, 2 is 0.5 to 1 day, 3 is 1 to 2 days, 4 is +2 days
+	attribute 1 is 0 to 0.5 day, 2 is 0.5 to 1 day, 3 is 1 to 2 days, 4 is +2 days
 
 # Manage DXF
 
