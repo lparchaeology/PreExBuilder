@@ -18,10 +18,15 @@ Generates a memory file where the columns are already created and displays it on
 Classifies the shp according to interpretation
 	Linear, Pit, Posthole, Cremation, Grave, Structure, Spread, Unclear
 	
-# Classified Slot
+# Classified Slot(status)
 
 Classifies the shp according to the status
 	complete, ongoing, to be done
+	
+# Classified Slot(time)
+
+Classifies the shp according to the time
+	1 is 0 to 0.5 day, 2 is 0.5 to 1 day, 3 is 1 to 2 days, 4 is +2 days
 
 # Manage DXF
 
