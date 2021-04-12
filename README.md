@@ -28,7 +28,7 @@ Classifies the shp according to the time
 	attribute 1 is 0 to 0.5 day, 2 is 0.5 to 1 day, 3 is 1 to 2 days, 4 is +2 days
 	
 
-# Manage DXF
+# Manage DXF Box
 
 Convert the dxf file to a memory shapefile, add the Interpr column that will match with the classify button to classify the features and convert the line layer in polygon
 
@@ -55,12 +55,12 @@ Make an estimate of how many sections and plans will be produced(work in progres
 This button allows you to merge the dxf file and the csv file of a given day in order to recreate the polygons corresponding to the interventions carried out that day
 	NB: the csv file must be reprocessed in order to have the columns divided as follows: POINT_ID, X, Y, Z, Code, file
 
-# Extra
+# Extra Box
 
 The Centroids button generates the x,y for each polygon features
 The id button generated an ID follow the row numbers
 
-# Manage Attribute Table
+# Manage Attribute Table Box
 
 This buttons allows the user to add the columns in the pre ex layer if not exist
 
