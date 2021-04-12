@@ -13,6 +13,8 @@ Generates a memory file where the columns are already created in order to be lin
 
 </ul>
 
+It is possible to duplicate the active layer and duplicate the selected features of the active layer in to a memory layer
+
 
 # Classification Box
 
